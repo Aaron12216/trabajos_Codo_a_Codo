@@ -1,0 +1,32 @@
+
+.oradores {
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly
+}
+.navbar-nav {
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+element.style {
+    text-align: right;
+}
+
+.card-img {
+    opacity: 0.5;
+}
+
+div {
+    display: block;
+}
+
+#textarea {
+    font-size: x-large;
+}
